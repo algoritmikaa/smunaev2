@@ -1,0 +1,41 @@
+ody {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(63, 144, 182);
+}
+
+header a {
+    border:10px;
+    background-color: orange; 
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 2px;
+}
+
+header img {
+padding: 5px;
+
+}
+
+h2 {
+    color: red;
+
+}
+
+
+footer{
+    background-color: rgb(0, 225, 255);
+    color: wheat;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black ;
+}
